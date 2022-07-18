@@ -16,7 +16,7 @@
         <module>xier-order</module>
         <module>xier-product</module>
         <module>xier-ware</module>
-
+        <module>renren-security</module>
     </modules>
 
 </project>
